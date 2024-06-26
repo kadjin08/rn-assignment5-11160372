@@ -1,4 +1,15 @@
 # rn-assignment5-11160372
+Credit Card & Transactions React Native App by Theoford Nana Gyanfosu.
+
+# Description of app build.
+-initialized react-native project.
+-installed dependencies using npm install.
+-created a homepage and styled header, card section and transaction section.
+-installed react-navigation for navigation between pages.
+-added a bottom bar with home, cards and settings pages
+-created a settings page and styled accordingly.
+-added a toggle button to settings page for easy switch between dark mode and light mode.
+-styled other components and completed project.
 
 
 
