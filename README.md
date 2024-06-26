@@ -1,5 +1,5 @@
 # rn-assignment5-11160372
-Credit Card & Transactions React Native App by Theoford Nana Gyanfosu.
+Credit Card & Transactions React native by Karl Adjin
 
 # Description of app build.
 -initialized react-native project.
